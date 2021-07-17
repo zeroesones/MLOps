@@ -1,2 +1,4 @@
 # MLOps
-Worksheet and Exercise files of MLOps learning
+Repository contains Worksheet and Exercise files of MLOps learning
+
+
