@@ -1,0 +1,6 @@
+numpy
+tensorflow==2.5.0
+fastapi
+uvicorn
+wandb
+pydantic
